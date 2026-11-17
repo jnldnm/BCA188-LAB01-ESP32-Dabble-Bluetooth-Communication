@@ -1,5 +1,8 @@
 # Using ESP32 Bluetooth with Dabble App for IoT Communication
 
+**Subject:** BCA188 - Programming for Internet of Things  
+**Laboratory Activity:** Using ESP32 Bluetooth with Dabble App for IoT Communication
+
 ## Introduction
 
 This laboratory activity demonstrates wireless communication between an ESP32 development board and a smartphone through the Dabble application. Using the Dabble Terminal module and the STEMpedia `DabbleESP32` library, the ESP32 receives text messages from the smartphone, displays them in the Arduino Serial Monitor, and sends responses back to the application.
